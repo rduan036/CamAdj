@@ -7,13 +7,13 @@ We provided the necessary details to conduct and understand the demo code provid
 	\datasets 				# we provide sampled data, more data can be download from: https://www.eth3d.net/datasets
 	\functions
 	\results
-	outlierFiltration.m 			# run this script for paper Tab. 1
-  	poseEstimationFor3rdView.m 		# run this for paper Tab. 2 and Fig. 5 left
-	twoView3DReconstruction.m		# paper Section 6.2  
-	twoViewPoseEstimation.m		# Figure 5 right
+	outlierFiltration.m 			# run this script for paper Tab.I
+  	poseEstimationFor3rdView.m 		# run this for paper Tab.II and Fig. 6
+	twoView3DReconstruction.m		# paper Section VI.A  
+	twoViewPoseEstimation.m			# paper Section VI.B 
 
          \CamAdjEuRoC
-	\euroc				# please download rosbag from the EuRoC MAV dataset: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+	\euroc					# please download rosbag from the EuRoC MAV dataset: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 	\functions
-	euroc_demo.m			# run this script for paper Section 6.3
+	euroc_demo.m				# run this script for paper Section VI.C
 ````
