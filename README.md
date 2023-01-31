@@ -17,3 +17,9 @@ We provided the necessary details to conduct and understand the demo code provid
 	\functions
 	euroc_demo.m				# run this script for paper Section VI.C
 ````
+
+# Example
+
+Run "euroc_demo.m" in \CamAdjEuRoC, you will see the following results:
+![VO trajectory visualization](euroc_demo_result.png)
+![VO result evaluation](euroc_demo_eval.png)
