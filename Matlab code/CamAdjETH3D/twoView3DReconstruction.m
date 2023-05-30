@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% demo of CamAdj filtering for two view triangulation (paper Tab.3 & Fig.6)
+% demo of CamAdj filtering for two view triangulation
 
 clc;
 clear all;

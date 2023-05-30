@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% demo of CamAdj filtering for 3rd view (paper Table 2) and Figure 5 left 
+% demo of CamAdj filtering for 3rd view
 
 clc;
 close all;
